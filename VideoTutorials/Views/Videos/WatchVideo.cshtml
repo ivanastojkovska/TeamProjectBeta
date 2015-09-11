@@ -1,0 +1,42 @@
+﻿@model VideoTutorials.Models.Video
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 id="WatchTitle">@Html.DisplayFor(model => model.Title)</h2>
+
+<div class="row">
+    <hr />
+    <div class="col-lg-7" id="WatchVideo">
+        @Html.Raw(Model.Link)
+    <p>@Html.DisplayNameFor(model => model.Tags)</p>
+    <div class="tags">
+        @foreach (string tag in Model.Tags.Split(';'))
+        {
+            string tTag = tag.Trim();
+            if (!string.IsNullOrWhiteSpace(tag))
+            {
+                <a href="~/Video/UserIndex?tag=@tTag" class="btn btn-warning btn-sm">@tTag</a>
+            }
+        }
+    </div>
+</div>
+
+<div class="col-lg-5">
+    <h3>@Html.DisplayNameFor(model => model.Description)</h3>
+    <p id="VideoDescription">@Html.DisplayFor(model => model.Description)</p>
+
+    <p>@Html.DisplayNameFor(model => model.Categories)</p>
+    <p>@Html.DisplayFor(model => model.Categories.Name)</p>
+</div>
+
+</div>
+
+<p>
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <button type="button" class="btn btn-primary btn-lg btn-block">@Html.ActionLink("Back to Video List", "VideoList")</button>
+        </div>
+    </div>
+</p>

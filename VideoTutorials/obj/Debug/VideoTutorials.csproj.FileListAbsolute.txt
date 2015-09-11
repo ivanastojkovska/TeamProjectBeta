@@ -1,0 +1,532 @@
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Documents\MVCMusicStore\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Desktop\TeamProjectOfficial\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits VideoTutorials\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.1406 - Copy\TeamProject4\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Desktop\VideoTutorialsTest5-master\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.15062015_2\TeamProject6\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Desktop\TeamProject8-master\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.16062015_1\TeamProject9\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.19062015_3\TeamProject10\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\TeamProject22062015\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.22062015_bonobo2\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.Migrations.InitialCreate.resources
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.csproj.GenerateResource.Cache
+C:\Users\Marina\Desktop\SEDC.BlackRabbits.OLS\VideoTutorials\obj\Debug\VideoTutorials.Migrations.AddVideoIsApproved.resources
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.Migrations.InitialCreate.resources
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.Migrations.AddVideoIsApproved.resources
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.csproj.GenerateResource.Cache
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Desktop\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.Migrations.InitialCreate.resources
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.Migrations.AddVideoIsApproved.resources
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\BlackRabbits Video Tutorials ver.12072015_2\TeamProject\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.InitialCreate.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.AddVideoIsApproved.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.pdb
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\VideoTutorials.dll.config
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\VideoTutorials.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\VideoTutorials.pdb
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Antlr3.Runtime.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.SqlServer.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Newtonsoft.Json.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Helpers.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Mvc.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Optimization.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Razor.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\WebGrease.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\EntityFramework.SqlServer.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Helpers.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Mvc.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Optimization.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.Razor.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Newtonsoft.Json.xml
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\Antlr3.Runtime.pdb
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.InitialCreate.resources
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.AddVideoIsApproved.resources
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.csproj.GenerateResource.Cache
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.dll
+F:\BACK UP!!!\Ivana\SEAVUS\PROJECTS\TEAM PROJECT 1\NEWEST\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.usermodelchanged.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.videomodelchanged.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.enrollmentdatedeleted.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.skillspropertyadded.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.changeindateofbirthformat.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.Dateofbirthnullable.resources
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\PagedList.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\PagedList.Mvc.dll
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\PagedList.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\bin\PagedList.Mvc.xml
+C:\Users\Ivana\Desktop\TeamProjectVer.12072015_2\TeamProject12072015\VideoTutorials\obj\Debug\VideoTutorials.Migrations.Citiespropertydeleted.resources

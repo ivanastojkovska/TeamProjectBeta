@@ -1,0 +1,54 @@
+﻿@model IEnumerable<VideoTutorials.Models.Video>
+
+@{
+    ViewBag.Title = "Videos";
+}
+@Html.Partial("_AdminNavigation")
+<h2>Videos</h2>
+
+<div>
+    @using (Html.BeginForm("Index", "Videos", FormMethod.Get))
+    {
+        <p>
+            Category: @Html.DropDownList("videoCategory", "All")
+            Keyword: @Html.TextBox("adminSearchString")
+            <input type="submit" value="Filter" class="btn-success" />
+        </p>
+    }
+</div>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <table class="table table-hover">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="~/Content/Images/@item.Thumbnail" />
+                    </td>
+                    <td>
+                        <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+                        <p>@Html.DisplayFor(modelItem => item.Description)</p>
+                        <p>@Html.DisplayFor(modelItem => item.Categories.Name)</p>
+                        <p>@Html.DisplayFor(modelItem => item.Tags)</p>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-group">@Html.ActionLink("Watch", "WatchVideo", new { id = item.VideoID })</button>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.VideoID })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.VideoID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+
+
+       

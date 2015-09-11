@@ -1,0 +1,112 @@
+﻿@model VideoTutorials.Models.User
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4> PROFILE: @Model.UserID </h4>
+    <hr />
+
+    <div class="row">
+        <div class="col-lg-12">
+            <p>
+               @Html.DisplayFor(model => model.FirstName)
+            </p>
+            <p>
+                @Html.DisplayFor(model => model.LastName)
+            </p>
+            <ul class="timeline">
+                <li>
+                    <div class="timeline-image">
+                        <img class="img-circle img-responsive" src="~/Content/Images/DateOfBirth.png" alt="">
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4> DATE OF BIRTH </h4>
+                        </div>
+                        <div class="timeline-body">
+                            <p>
+                                @Html.DisplayFor(model => model.DateOfBirth)
+                            </p>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-image">
+                        <img class="img-circle img-responsive" src="~/Content/Images/Education.png" alt="">
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>FORMAL EDUCATION</h4>
+                        </div>
+                        <div class="timeline-body">
+                            <p>
+                                @Html.DisplayFor(model => model.FormalEducation)
+                            </p>
+                        </div>
+                    </div>
+                    <div class="line"> </div>
+                </li>
+                <li>
+                    <div class="timeline-image">
+                        <img class="img-circle img-responsive" src="~/Content/Images/Experience.png" alt="">
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>PROFESIONAL EXPERIENCE</h4>
+                        </div>
+                        <div class="timeline-body">
+                            <p>
+                                @Html.DisplayFor(model => model.ProfesionalExperience)
+                            </p>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-image">
+                        <img class="img-circle img-responsive" src="~/Content/Images/Courses.png" alt="">
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>COURSES AND TRAININGS </h4>
+                            <h4 class="subheading">Subtitle</h4>
+                        </div>
+                        <div class="timeline-body">
+                            <p>
+                                @Html.DisplayFor(model => model.Courses)
+                            </p>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                </li>
+                <li>
+                    <div class="timeline-image">
+                        <img class="img-circle img-responsive" src="~/Content/Images/Skills.png" alt="">
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4> SKILLS AND COMPETENCES</h4>
+                        </div>
+                        <div class="timeline-body">
+                            <p>
+                                @Html.DisplayFor(model => model.Skills)
+                            </p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+  
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UserID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

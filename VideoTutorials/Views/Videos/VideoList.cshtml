@@ -1,0 +1,36 @@
+﻿@model IEnumerable<VideoTutorials.Models.Video>
+
+@{
+    ViewBag.Title = "Index";
+}
+@Html.Partial("_UserNavigation")
+<h2>Videos</h2>
+
+<form method="get" action="~/Videos/VideoList">
+    Search <input type="text" name="name" class="input-sm" placeholder="Filter the videos by title" />
+    <input type="submit" value="Filter" class="btn btn-default" />
+</form>
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <table class="table table-condensed table-hover">
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="~/Content/Images/@item.Thumbnail" />
+                    </td>
+                    <td>
+                        <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+                        <p>@Html.DisplayFor(modelItem => item.Description)</p>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-info">@Html.ActionLink("Watch", "WatchVideo", new { id = item.VideoID })</button>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+

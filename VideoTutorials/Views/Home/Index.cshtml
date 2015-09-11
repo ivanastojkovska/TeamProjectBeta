@@ -1,0 +1,135 @@
+﻿@model VideoTutorials.Models.Video
+
+@{
+    Layout = "~/Views/Shared/_LayoutHomePage.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<div class="container body-content AppBody">
+    <div class="row">
+        <!-- Home Section -->
+        <section class="success" id="home">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class=" Titles">Home</h2>
+                    <hr class="star-light success">
+                </div>
+                <a href="#services">
+                    <div class="scroll-down">
+                        <span>
+                            <i class="fa fa-angle-down fa-2x"></i>
+                        </span>
+                    </div>
+                </a>
+            </div>
+            <div id="thumbnail-preview-indicators" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#thumbnail-preview-indicators" data-slide-to="0" class="active">
+                        <div class="thumbnail">
+                            <img class="img-responsive" src="http://bit.ly/1BiFZua">
+                        </div>
+                    </li>
+                    <li data-target="#thumbnail-preview-indicators" data-slide-to="1">
+                        <div class="thumbnail">
+                            <img class="img-responsive" src="http://bit.ly/1GoBE7Y">
+                        </div>
+                    </li>
+                    <li data-target="#thumbnail-preview-indicators" data-slide-to="2">
+                        <div class="thumbnail">
+                            <img class="img-responsive" src="http://bit.ly/1QzrcCA">
+                        </div>
+                    </li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="item slides active">
+                        <div class="slide-1"></div>
+                        <div class="container">
+                            <div class="carousel-caption sliderCaption">
+                                <h1> Black Rabbits Team</h1>
+                                <p>Group of enthusiasts determinated to become great software developers </p>
+                                <button class="btn btn-lg btn-primary sliderButton" onclick="location.href='@Url.Action("Index", "Home")#about'"> Read more about us </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item slides">
+                        <div class="slide-2"></div>
+                        <div class="container">
+                            <div class="carousel-caption sliderCaption">
+                                <h1> Watch latest videos</h1>
+                                <p>Register to have access to all video tutorials</p>
+                                <button class="btn btn-lg btn-primary sliderButton" onclick="location.href='@Url.Action("Register", "Account")'"> Register  </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item slides">
+                        <div class="slide-3"></div>
+                        <div class="container">
+                            <div class="carousel-caption sliderCaption">
+                                <h1>Interesting articles for our subscribers</h1>
+                                <p>Something new and interesting</p>
+                                <button class="btn btn-lg btn-primary sliderButton" onclick="location.href='@Url.Action("Login", "Account")'"> Log in </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a class="left carousel-control" href="#thumbnail-preview-indicators" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                <a class="right carousel-control" href="#thumbnail-preview-indicators" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+            </div>
+        </section>
+        <!-- About Us Section -->
+        <section class="success" id="about">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="Titles"> About Us </h2>
+                    <hr class="star-light">
+                </div>
+                <div class="col-lg-12 text-center success">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <p> Discover a course and sign up today. </p>
+                    <p>Choose from hundreds of videos created by the world’s top educational institutions. Courses are open to anyone, and learning is free.</p>
+                    <img src="~/Content/Images/AboutUs4.jpg" class="img-thumbnail center-block" />
+                </div>
+                <div class="col-md-4">
+                    <p> Discover a course and sign up today. </p>
+                    <p>Choose from hundreds of videos created by the world’s top educational institutions. Courses are open to anyone, and learning is free.</p>
+                    <img src="~/Content/Images/AboutUs2.jpg" class="img-thumbnail center-block" />
+                </div>
+                <div class="col-md-4">
+                    <p> Discover a course and sign up today. </p>
+                    <p>Choose from hundreds of videos created by the world’s top educational institutions. Courses are open to anyone, and learning is free.</p>
+
+                    <img src="~/Content/Images/AboutUs3.jpg" class="img-thumbnail center-block" />
+                </div>
+
+            </div>
+        </section>
+        <!-- Latest Videos Section -->
+        <section class="success" id="latestVideos">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="Titles"> Latest Videos</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+           
+                    
+                <div>
+                    <div class="col-sm-4 portfolio-item">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/v4oN4DuR7YU" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-sm-4 portfolio-item">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/b2BRS90baOY" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-sm-4 portfolio-item">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/XAPPTnAJ5Pk" frameborder="0" allowfullscreen></iframe>
+                    </div>
+
+                </div>
+        </section>
+           
+</div>
